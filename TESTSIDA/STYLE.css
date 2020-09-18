@@ -84,6 +84,7 @@ a:hover{
     grid-area: logo;
     justify-self: center;
     align-self: end;
+    transform: scaleX(-1);
 }
 
 #search{
